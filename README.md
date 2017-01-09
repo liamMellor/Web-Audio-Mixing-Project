@@ -1,8 +1,2 @@
-Liam Mellor Developer Portfolio
-
-Setup:
-	- Run 'npm install'
-
-Dev:
-	- 'npm run styles' to build sass partials
-	- 'npm run watch' to watch styles changes and build on them
+# Web-Audio-Mixing-Project
+This was my final project for an NYU course: Audio for the Web
